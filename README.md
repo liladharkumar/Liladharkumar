@@ -1,4 +1,10 @@
 ## Hi there 👋
+Hi 👋 I'm Liladhar kumar
+
+🎓 Student | Java Backend Learner  
+💻 Skills: Java, Spring Boot, MySQL, Git  
+🚀 Currently working on User Management System  
+📫 Email: your@email.com
 
 <!--
 **liladharkumar/Liladharkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
