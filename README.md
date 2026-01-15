@@ -25,10 +25,12 @@
 
 ### 📌 Projects
 - 🔹**Student Management System (Frontend Project)**
+- 
       Technologies: HTML, CSS, JavaScript
 
 
 - 🔹**REST API Development Project**
+- 
       Technologies: Java, Spring Boot, REST API, MySQL, Postman
 
 
