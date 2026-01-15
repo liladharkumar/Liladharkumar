@@ -24,14 +24,13 @@
 ---
 
 ### 📌 Projects
-- 🔹 **User Management System**  
-  (Authentication, CRUD, REST APIs)
+- 🔹**Student Management System (Frontend Project)**
+      Technologies: HTML, CSS, JavaScript
 
-- 🔹 Resume Builder  
-(Java Backend + HTML/CSS + MySQL)
 
-- 🔹 **Student Result Management System**  
-  (Database-driven application)
+- 🔹**REST API Development Project**
+      Technologies: Java, Spring Boot, REST API, MySQL, Postman
+
 
 👉 More projects coming soon…
 
