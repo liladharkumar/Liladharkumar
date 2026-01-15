@@ -18,8 +18,8 @@
 - **Language:** Java  
 - **Backend:** Spring Boot, REST API  
 - **Database:** MySQL  
-- **Tools:** Git, GitHub, Maven  
-- **Basics:** HTML, CSS  
+- **Tools:** Git, GitHub, Postmen   
+- **Basics:** HTML, CSS ,Javascript
 
 ---
 
